@@ -1,8 +1,9 @@
 # Hi there, I'm Atharva Joshi 👋  
 
-🚀 **Software Engineer | Web Developer | Java Enthusiast**  
+🚀 **Aspiring Software Engineer | Web Developer | Java Enthusiast**  
 
 ### 🌟 About Me
+- 🎓 I am a final year **IT student**
 - 🌱 Learning **Data Structures & Algorithms, SpringBoot, AWS**
 - 💬 Ask me about **Java, SQL, Web Development, ReactJS**
 - 📫 Reach me at [atharvajoshi0573@gmail.com]
