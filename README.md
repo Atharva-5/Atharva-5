@@ -1,12 +1,12 @@
 # Hi there, I'm Atharva Joshi 👋  
 
-🚀 **Aspiring Software Engineer | Web Developer | Java Developer**  
+🚀 **Aspiring Software Engineer | Web Development | Java Developer**  
 
 ### 🌟 About Me
 - 🎓 I am a final year **IT student**
 - 🌱 Learning **Data Structures & Algorithms, SpringBoot, AWS**
 - 💬 Ask me about **Java, SQL, Web Development, ReactJS**
-- 📫 Reach me at [atharvajoshi0573@gmail.com]
+- 📫 Reach me at atharvajoshi0573@gmail.com
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
