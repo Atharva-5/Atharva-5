@@ -1,6 +1,6 @@
 # Hi there, I'm Atharva Joshi 👋  
 
-🚀 **Aspiring Software Engineer | Web Developer | Java Enthusiast**  
+🚀 **Aspiring Software Engineer | Web Developer | Java Developer**  
 
 ### 🌟 About Me
 - 🎓 I am a final year **IT student**
