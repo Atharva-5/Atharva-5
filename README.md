@@ -1,6 +1,6 @@
 # Hi there, I'm Atharva Joshi 👋
 
-🚀 *Aspiring Software Engineer | Java Backend Developer | AWS Enthusiast*
+🚀 *Software Engineer | Java Backend Developer | AWS Enthusiast*
 
 ---
 
