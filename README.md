@@ -1,116 +1,92 @@
-# Hi there, I'm Atharva Joshi 👋
+# Hi, I'm Atharva Joshi 👋
 
-🚀 *Software Engineer | Java Backend Developer | AWS Enthusiast*
-
----
-
-## 🌟 About Me
-
-- 🎓 Final-year **Information Technology** student passionate about building scalable backend systems and real-world solutions.
-- 💡 Love solving problems with Java and exploring the depths of server-side development.
-- 🌱 Continuously learning ***Spring Boot***, modern AWS services, and advanced Data Structures & Algorithms.
-- 👨‍💻 Proficient in **Java**, **SQL**, with strong foundations in web development using **ReactJS**.
-- 🤝 Always up for collaboration, open-source, and connecting with other tech enthusiasts—let’s connect!
-- 📫 Reach me at atharvajoshi0573@gmail.com
+### Junior Software Engineer | Java & Spring Boot | Microservices | AWS | Full-Stack Development
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?label=HTML5&message=Markup&color=E34F26&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20VPC-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+Software Engineer specializing in **Java backend development, Spring Boot, Microservices, and AWS**, with experience building and maintaining full-stack applications.
+
+My work spans **backend architecture, REST API development, database-driven applications, cloud services, and frontend development** using Angular and React. I focus on building maintainable systems with an emphasis on scalability, reliability, and clean engineering practices.
+
+Currently working as a **Junior Software Engineer at Comprinno**, with professional experience across Java, Spring Boot, Microservices, AWS, and full-stack development.
 
 ---
 
-## 🚀 Pinned Projects
+## Technical Expertise
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### Backend & Architecture
 
-### 🎯 VivahBandh *(Major Project)*  
-A modern matrimonial web application connecting matches and families.
-  
-- **Role-based authentication** for candidates & families  
-- Advanced matchmaking filters, profile gallery, favorites  
-- Admin dashboard: analytics, user verification, reports  
-- **Tech:** ReactJS, Django, TailwindCSS, JWT  
+`Java` · `Spring Boot` · `REST APIs` · `Microservices` · `JWT` · `RabbitMQ`
 
-</td>
-<td width="50%" valign="top">
+### Frontend
 
-### 🎬 MoviesVerse  
-Discover the latest movies and shows.
-  
-- Browse thousands of movies with rich search & filters  
-- Integration with TMDb API for live data  
-- Personal watchlists, user auth, custom ratings  
-- **Tech:** ReactJS, SpringBoot, PostgreSQL, TailwindCSS
+ `AngularJS` · `ReactJS` · `Tailwind CSS` · `Bootstrap`
 
-</td>
-  </tr>
-  <tr>
-<td valign="top">
+### Cloud & AWS
 
-### 📚 EduManage  
-A school & college management system.
+`AWS` · `EC2` · `S3` · `RDS` · `Lambda` · `IAM` · `VPC` · `Athena` · `CodePipeline`
 
-- Dashboards for students, trainers & admins  
-- Attendance, marks, notices, reports
-- Role-based interfaces & data sharing
-- **Tech:** Java, Spring Boot, ReactJS, PostgreSQL
+**AWS Focus:** Cloud-native application development · Compute & Storage · Databases · Serverless · IAM & Security · Networking · CI/CD
 
-</td>
-    <td valign="top">
+### Databases & Engineering Tools
 
-### 🛠️ SpringMVC Demo Suite  
-Learning Java web app using Spring MVC.
-
-- CRUD apps: To-Do, User Registration  
-- Database, file/csv uploads, REST endpoints  
-- Form validation, sessions, modular architecture  
-- **Tech:** Java, Spring MVC, PostgreSQL, JPA, Hibernate  
-
-</td>
-  </tr>
-</table>
+`PostgreSQL` · `MySQL` · `MongoDB` · `Git` · `GitHub` · `Postman` 
 
 ---
 
-## ✨ More Highlights
+## Experience
 
-- 🚩 **My Principles**
-  - Clean, maintainable code first.
-  - Always learning and adapting new tech.
-  - Believe in building real-world solutions.
+### Comprinno
 
-- 🧩 **Fun Fact:**  
-  I love solving coding challenges and exploring cloud-native technologies!
+**Junior Software Engineer** · Nov 2025 – Present
+
+**Software Engineer Intern** · Aug 2025 – Nov 2025
+
+Working on enterprise software development with a focus on **Java, Spring-based applications, full-stack development, microservices, and AWS**.
+
+* Developing and maintaining backend services and RESTful APIs.
+* Working with modern Java and Spring Boot-based application architectures.
+* Contributing to full-stack development using Angular and related frontend technologies.
+* Working with databases, cloud services, and application integrations.
+* Following engineering practices focused on maintainability, reliability, and production readiness.
 
 ---
 
-## 🌍 Let's Connect
+## Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contactatharvajoshi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://contactatharvajoshi.netlify.app/)
+### AWS
+
+**AWS Certified Developer – Associate**
+**AWS Certified Cloud Practitioner**
+
+**Additional Credentials**
+
+* AWS Academy Cloud Foundations
+* AWS Partner: Well-Architected Best Practices — Technical
+* AWS Partner: Cloud Economics
+* AWS Partner: Sales Accreditation — Business
 
 ---
 
-*🔥 Open to collaboration, internships, and full-time opportunities. Let’s build something great together!*
+## Achievements
+
+* 🏆 Multiple-time winner in **National-Level Paper Presentation and Project Exhibition competitions**
+* 📄 Research publication selected for the **International Journal for Scientific Research & Technology**
+
+---
+
+## Education
+
+**Walchand Institute of Technology, Solapur**
+B.Tech — Information Technology · 2021–2025
+
+---
+
+## Connect
+
+I'm interested in **backend engineering, distributed systems, cloud architecture, microservices, and full-stack development**.
+
+📧 **[atharvajoshi664@gmail.com](mailto:atharvajoshi664@gmail.com)**
+💼 **[LinkedIn](https://www.linkedin.com/in/contactatharvajoshi/)**
