@@ -28,7 +28,8 @@ Currently working as a **Junior Software Engineer at Comprinno**, with professio
 
 `AWS` · `EC2` · `S3` · `RDS` · `Lambda` · `IAM` · `VPC` · `Athena` · `CodePipeline`
 
-**AWS Focus:** Cloud-native application development · Compute & Storage · Databases · Serverless · IAM & Security · Networking · CI/CD
+### AWS Focus Cloud-native application development 
+`Compute & Storage` · `Databases` · `Serverless` · `IAM & Security` · `Networking` · `CI/CD`
 
 ### Databases & Engineering Tools
 
